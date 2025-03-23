@@ -1,2 +1,2 @@
-# tone-generator
-Website for the Tone Generator app.
+# Tone-Generator
+Website for the tone generator app
